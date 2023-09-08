@@ -100,6 +100,45 @@
 
 .instagram_img img {
     margin: 0 auto;
-    width: 220px;
+    width: 235px;
     margin-right: 10px;
+}
+
+.latest_deal {
+    width: 1000px;
+    margin-top: 100px;
+    margin-left: 45px;
+
+
+
+}
+
+.latest_deal img {
+    text-align: center;
+    width: 1000px;
+    position: absolute;
+}
+
+.search_btn {
+    width: 300px;
+    background-color: #fff;
+    padding: 10px;
+    margin-right: 0px;
+}
+
+.latest_deal_search {
+
+    position: relative;
+    text-align: center;
+    top: 100px;
+
+}
+
+footer {
+    height: 300px;
+    background-color: #000;
+    margin-top: 250px;
+    color: #fff;
+    text-align: center;
+    padding-top: 100px;
 }
