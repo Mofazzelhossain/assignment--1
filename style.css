@@ -1,0 +1,105 @@
+.header {
+    height: 500px;
+    width: 100%;
+    background-color: #FCEEF1;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.heade_left {
+    float: left;
+    width: 450px;
+    margin-top: 100px;
+}
+
+.header_right {
+    float: right;
+    margin-top: 100px;
+}
+
+.header_img {
+    height: 400px;
+    width: 400px;
+}
+
+.header_text {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.btn {
+    color: #ffffff;
+    background-color: #E9505A;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+
+}
+
+.our_feature {
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+.our_feture-header {
+    width: 200px;
+    text-align: center;
+}
+
+.flower_tree {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.flower_tree img {
+    width: 250px;
+    height: 250px;
+    padding: 30px 30px 0px 30px;
+
+}
+
+.flower_tree a {
+    display: inline;
+}
+
+.pink {
+    background-color: pink;
+    width: 300px;
+    border-radius: 50% 50% 0 0;
+
+
+}
+
+.red {
+    background-color: #D9EFF1;
+    width: 300px;
+    border-radius: 50% 50% 0 0;
+}
+
+.yellow {
+    background-color: #E3EBDB;
+    width: 300px;
+    border-radius: 50% 50% 0 0;
+}
+
+.hot_deal {
+    margin-top: 100px;
+
+}
+
+.instagram_img {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.instagram_img img {
+    margin: 0 auto;
+    width: 220px;
+    margin-right: 10px;
+}
